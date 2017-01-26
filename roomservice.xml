@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remove-project name="CyanogenMod/android_frameworks_av" />
+  <remove-project name="LineageOS/android_frameworks_av" />
   <project name="vilkov/android_frameworks_av" path="frameworks/av" remote="github" />
-  <remove-project name="CyanogenMod/android_frameworks_native" />
+  <remove-project name="LineageOS/android_frameworks_native" />
   <project name="ivanmeler/android_frameworks_native" path="frameworks/native" remote="github" />
-  <project name="CyanogenMod/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="github" />
-  <remove-project name="CyanogenMod/android_device_samsung_smdk4412-common" />
+  <project name="LineageOS/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="github" />
+  <remove-project name="LineageOS/android_device_samsung_smdk4412-common" />
   <project name="ivanmeler/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="github" />
-  <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" />
-  <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" />
-  <remove-project name="CyanogenMod/android_hardware_samsung" />
+  <project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" />
+  <remove-project name="LineageOS/android_hardware_samsung" />
   <project name="ivanmeler/android_hardware_samsung" path="hardware/samsung" remote="github" />
   <project name="Haxynox/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="Mmm" />
   <project name="ivanmeler/android_device_samsung_n7100" path="device/samsung/n7100" remote="github" />
   <project name="Haxynox/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="Mmm" />
-  <project name="CyanogenMod/android_external_stlport" path="external/stlport" remote="github" />
-  <remove-project name="CyanogenMod/android_hardware_libhardware" />
+  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" />
+  <remove-project name="LineageOS/android_hardware_libhardware" />
   <project name="ivanmeler/android_hardware_libhardware" path="hardware/libhardware" remote="github" />
-  <remove-project name="CyanogenMod/android_packages_services_Telecomm" />
+  <remove-project name="LineageOS/android_packages_services_Telecomm" />
   <project name="vilkov/android_packages_services_Telecomm" path="packages/services/Telecomm" remote="github" />
 </manifest>
