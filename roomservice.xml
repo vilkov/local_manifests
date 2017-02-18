@@ -9,4 +9,5 @@
   <project name="vilkov/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="Mmm" />
   <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" />
   <project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" />
+  <project name="LineageOS/android_system_extras_su" path="system/extras/su" />
 </manifest>
